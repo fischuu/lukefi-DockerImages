@@ -1,0 +1,1 @@
+docker build -t lukefi/trimmomatic:0.36 -t lukefi/trimmomatic:latest .
